@@ -33,8 +33,10 @@
 • Point to Microsoft or Upstream Server for Updates
 
 – Offline
+
 • Airgap Required Binaries to Server
 – https://www.microsoft.com/en-us/download/details.aspx?id=5216
+
 • Point to Upstream Server for Updates or Create WSUS Export Server
 – https://blogs.msdn.microsoft.com/george_bethanis/2014/09/19/how-toinstall-patches-in-an-isolated-environment/
 
