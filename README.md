@@ -17,6 +17,7 @@
 – Generates reports based on current update status of managed devices
 
 – No additional license requirements
+
 • Free with Windows Server XXXX
 
 ### Windows Update Agent connects to WSUS via HTTP/HTTPS, checks for update:
